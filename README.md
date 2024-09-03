@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technologies
 - 🌱 I’m currently learning about embedded system
 - 📫 How to reach me jules.dincher@edu.ece.fr
-- 😄 Pronouns: Julos
+
 
 
 <!---
